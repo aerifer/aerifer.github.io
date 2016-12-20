@@ -1,1 +1,13 @@
+name: aerifer
+description: aerifer website
+baseurl: ""
+permalink: /:title/
+
 theme: jekyll-theme-tactile
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
